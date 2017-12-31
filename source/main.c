@@ -1,6 +1,5 @@
 #include <string.h>
 #include <stdio.h>
-#include <math.h>
 #include <3ds.h>
 
 #define FPS (24)
